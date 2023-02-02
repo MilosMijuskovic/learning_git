@@ -1,5 +1,5 @@
 function getPerson(name, surname) {
-    return name + " " + surname;
+    return name + "<< >>" + surname;
 
 
 
